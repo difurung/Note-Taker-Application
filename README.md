@@ -17,7 +17,7 @@ This application is a simple note taking program that can be used to record, sav
 
 [Deployed Application](https://shielded-caverns-86447.herokuapp.com/)
 
-[Github Repository](https://github.com/difurung/The-Weather-Application)
+[Github Repository](https://github.com/difurung/Note-Taker-Application)
 
 ## Screenshot
 
