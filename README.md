@@ -15,11 +15,12 @@ This application is a simple note taking program that can be used to record, sav
 
 ## Access
 
-Deployed application [HERE](inserturlhere)
+[Deployed Application](heroku url here)
+[Github Repository](https://github.com/difurung/The-Weather-Application)
 
 ## Screenshot
 
-![Screenshot of application](insertpichere)
+![Screenshot of application](public/assets/images/Note%20taker.png)
 
 
 ## License
